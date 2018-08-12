@@ -136,3 +136,8 @@ section {
 
 
 /*//////// Social ////////*/
+
+#social {
+  position: fixed;
+  top: 200px;
+}
