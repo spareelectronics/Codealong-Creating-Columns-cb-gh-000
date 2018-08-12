@@ -78,3 +78,16 @@ figcaption {
   margin: 0 auto; /* centers, 2nd for left and right */
   background: #eee;
 }
+
+.col-1 {
+  float: left;
+}
+
+.col-2 {
+  float: left;
+
+}
+
+.col-3 {
+  float: left;
+}
